@@ -48,19 +48,36 @@ I enjoy learning how technology can transform data into meaningful insights and 
 
 <div align="center">
 
-### Programming & Web Development
+### Data Analytics & Visualization
 
-<img src="https://skillicons.dev/icons?i=python,php,laravel,html,css,js&theme=dark&perline=6" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />        
 
 ### Database Management
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+
+### Software & Web Development
+
+<img src="https://skillicons.dev/icons?i=php,laravel,html,css,js&theme=dark&perline=5" />
 
 ### Development Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=3" />
 
 </div>
+
 
 ## 📂 Featured Projects
 
