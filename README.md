@@ -81,34 +81,65 @@ I enjoy learning how technology can transform data into meaningful insights and 
 
 ## 📂 Featured Projects
 
-### Main Projects
+<div align="center">
+  <img src="https://img.shields.io/badge/DATA_ANALYTICS-2563EB?style=flat-square&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/INFORMATION_SYSTEMS-7C3AED?style=flat-square&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/APP_DEVELOPMENT-06B6D4?style=flat-square&logo=flutter&logoColor=white" />
+</div>
+
+<br>
 
 <table>
   <tr>
-    <td width="50%">
-      <h3>EdTech Learning Analytics</h3>
-      <p>Analyzing student engagement and academic performance using the OULAD dataset.</p>
-      <p><strong>Tools:</strong> Python, SQL, Power BI</p>
-      <a href="https://github.com/aamiraghania/edtech-learning-analytics">View Repository</a>
+    <td width="50%" valign="top">
+      <h3>01. EdTech Learning Analytics</h3>
+      <p>
+        An exploratory data analytics project focused on understanding
+        student engagement and academic performance using the OULAD dataset.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-2563EB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQL-7C3AED?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Power_BI-06B6D4?style=flat-square&logo=powerbi&logoColor=white" />
+      </p>
+      <a href="https://github.com/aamiraghania/edtech-learning-analytics">
+        <img src="https://img.shields.io/badge/Explore_Project-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
     </td>
-    <td width="50%">
-      <h3>PBL-Lab_IVSS</h3>
-      <p>A project developed as part of a Project-Based Learning experience.</p>
-      <p><strong>Focus:</strong> Information Systems Development</p>
-      <a href="https://github.com/aamiraghania/PBL-Lab_IVSS">View Repository</a>
+    <td width="50%" valign="top">
+      <h3>02. PBL-Lab_IVSS</h3>
+      <p>
+        A project-based learning project focused on information systems
+        and software development.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-7C3AED?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/Web_Development-2563EB?style=flat-square&logo=googlechrome&logoColor=white" />
+      </p>
+      <a href="https://github.com/aamiraghania/PBL-Lab_IVSS">
+        <img src="https://img.shields.io/badge/Explore_Project-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3>NatureRent</h3>
-      <p>An application development project focused on building a digital solution.</p>
-      <p><strong>Focus:</strong> Application Development</p>
-      <a href="https://github.com/aamiraghania/NatureRent">View Repository</a>
-    </td>
-    <td width="50%">
+    <td colspan="2" valign="top">
+      <h3>03. NatureRent</h3>
+      <p>
+        An application development project that explores the development
+        of a digital solution through software engineering.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Dart-06B6D4?style=flat-square&logo=dart&logoColor=white" />
+        <img src="https://img.shields.io/badge/Application_Development-2563EB?style=flat-square&logo=flutter&logoColor=white" />
+      </p>
+      <a href="https://github.com/aamiraghania/NatureRent">
+        <img src="https://img.shields.io/badge/Explore_Project-06B6D4?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
     </td>
   </tr>
 </table>
+
+<br>
 
 ## 📈 GitHub Activity
 
