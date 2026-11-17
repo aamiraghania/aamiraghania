@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/GitHub-aamiraghania-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/aamira-faheema-ghania-34063b3a9/">
+<a href="https://www.linkedin.com/in/aamira-faheema-ghania">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -162,7 +162,7 @@ I enjoy learning how technology can transform data into meaningful insights and 
 
 I'm always open to learning, collaborating, and connecting with people in technology.
 
-<a href="https://www.linkedin.com/in/aamira-faheema-ghania-34063b3a9/">
+<a href="https://www.linkedin.com/in/aamira-faheema-ghania">
 <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
