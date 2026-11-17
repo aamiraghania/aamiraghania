@@ -114,7 +114,8 @@ I enjoy learning how technology can transform data into meaningful insights and 
       </p>
       <p>
         <img src="https://img.shields.io/badge/PHP-7C3AED?style=flat-square&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/Web_Development-2563EB?style=flat-square&logo=googlechrome&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS-2563EB?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-7C3AED?style=flat-square&logo=javascript&logoColor=white" />
       </p>
       <a href="https://github.com/aamiraghania/PBL-Lab_IVSS">
         <img src="https://img.shields.io/badge/Explore_Project-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
@@ -129,8 +130,10 @@ I enjoy learning how technology can transform data into meaningful insights and 
         of a digital solution through software engineering.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Dart-06B6D4?style=flat-square&logo=dart&logoColor=white" />
-        <img src="https://img.shields.io/badge/Application_Development-2563EB?style=flat-square&logo=flutter&logoColor=white" />
+       <img src="https://img.shields.io/badge/Dart-06B6D4?style=flat-square&logo=dart&logoColor=white" />
+      <img src="https://img.shields.io/badge/PHP-7C3AED?style=flat-square&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML-2563EB?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS-06B6D4?style=flat-square&logo=css3&logoColor=white" />
       </p>
       <a href="https://github.com/aamiraghania/NatureRent">
         <img src="https://img.shields.io/badge/Explore_Project-06B6D4?style=for-the-badge&logo=github&logoColor=white" />
