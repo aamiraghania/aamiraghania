@@ -81,47 +81,33 @@ I enjoy learning how technology can transform data into meaningful insights and 
 
 ## 📂 Featured Projects
 
+### Main Projects
+
 <table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>📊 EdTech Learning Analytics</h3>
-
-An educational data analytics project using the Open University Learning Analytics Dataset (OULAD) to explore student engagement and academic performance.
-
-**Key Focus**
-- Data Cleaning & Preparation
-- Exploratory Data Analysis
-- Student Engagement Analysis
-- SQL & Data Visualization
-- Power BI Dashboard
-
-<a href="https://github.com/aamiraghania/edtech-learning-analytics">
-<img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🛒 E-commerce Sales Analysis</h3>
-
-An e-commerce analytics project focused on understanding sales performance, product trends, and business insights using an Amazon marketplace dataset.
-
-**Key Focus**
-- Business Understanding
-- Data Exploration
-- Sales Performance Analysis
-- Product Analysis
-- Business Insights
-
-<img src="https://img.shields.io/badge/Project-In%20Progress-F59E0B?style=for-the-badge" />
-
-<a href="https://github.com/aamiraghania/ecommerce-sales-analysis">
-<img src="https://img.shields.io/badge/View%20Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-</tr>
+  <tr>
+    <td width="50%">
+      <h3>EdTech Learning Analytics</h3>
+      <p>Analyzing student engagement and academic performance using the OULAD dataset.</p>
+      <p><strong>Tools:</strong> Python, SQL, Power BI</p>
+      <a href="https://github.com/aamiraghania/edtech-learning-analytics">View Repository</a>
+    </td>
+    <td width="50%">
+      <h3>PBL-Lab_IVSS</h3>
+      <p>A project developed as part of a Project-Based Learning experience.</p>
+      <p><strong>Focus:</strong> Information Systems Development</p>
+      <a href="https://github.com/aamiraghania/PBL-Lab_IVSS">View Repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>NatureRent</h3>
+      <p>An application development project focused on building a digital solution.</p>
+      <p><strong>Focus:</strong> Application Development</p>
+      <a href="https://github.com/aamiraghania/NatureRent">View Repository</a>
+    </td>
+    <td width="50%">
+    </td>
+  </tr>
 </table>
 
 ## 📈 GitHub Activity
